@@ -106,11 +106,17 @@ h2 {
     }
 }
 
-header p {
+p {
     color: #a7a7a7;
     font-family: arial;
     padding-left: 1em;
     padding-right: 1em;
+    text-align: center;
+}
+
+p a {
+  color: #a7a7a7;
+  text-align: center;
 }
 
 
@@ -172,11 +178,11 @@ video {
 }
 
 .zesty img {
-    height: 9em;
+    height: 8em;
 }
 
 .darkworld img {
-    height: 6em;
+    height: 4.5em;
 }
 
 
